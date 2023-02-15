@@ -1,0 +1,93 @@
+Scanner Class :
+Helps us take the input from keyboard
+
+Logical Operators:
+   Just another set of symbol that we can use to combine multiple boolean values.
+   There are three logical operators ! || &&
+
+   Why we should learn about the logical operators?
+     We can greatly simplify th
+     s logical if we use the these operators
+
+     What is the Syntax?
+      they only work with the boolean data type
+      if(!condition)
+      if(condition1 || condition2)
+      if( condition1 &&  condition2)
+
+
+NOT Operators(!)
+      Not is used to negate the boolean values if something is true it will make false
+      if something false it will make it true.
+
+
+
+What is a SwitchCase statement?
+   Switch case statement are just another of achieving the same result as if -else if condition
+
+ Why should we learn about them
+    The reason we should use them is they are  very fast
+
+    Striing(var)
+    switch(var){
+    case 1:
+    sout"1"
+    break;
+
+    } that
+
+    Rules that we should follow:
+    we can only use byte short int char String in switch case statement
+    we cant use relational operation in  switch case statement
+
+    Scanner class:
+    Helps use take the input from keyboard.
+    Logical Operators:
+        Just another set of symbols that we can use to combine multiple boolean values. There are logical
+        operators ! || &&
+    Why should we learn about the logical operators?
+        we can greatly simplify th
+        e logic if we use these operators
+
+    What is the syntax:
+        they only work with boolean data type
+        if(! condition)
+        if(condition1 || condition 2)
+        if(conditions1 && condition2)
+
+    NOT Operator (!)
+        Not is used to negate the boolean values if something is  it will make it false if something
+        is false it will make it true.
+
+    What is a SwitchCase statement:
+        Switch case statement are just another of achieving the same results as if-else-if conditions.
+
+    Why should we learn about them:
+        The reason we should use them is they are very fast.
+    Syntax:
+
+    switch ( condition) {
+    case 1:
+    {output}
+    break;
+    case 2:
+    {output}
+    break;
+    default:
+    {otherwise output}
+
+    }
+    Rules that we should follow:
+        1) we can only use byte short int char String in switch case statements.
+        2) We can't use relational operators in switch case statements are also not allowed
+        3) We can't use logical operators
+
+
+
+
+
+
+
+
+
+
